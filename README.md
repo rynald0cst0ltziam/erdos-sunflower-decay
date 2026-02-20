@@ -58,7 +58,7 @@ cat proofs/proof_n5_m60.json | python3 sunflower_analysis.py
 > "Through our framework, we computed the maximum sunflower-free configurations across multiple $n$ dimensions. We observed a complete decoupling from the expected probabilistic variance. As $n$ increases, the required normalized spreadness constant $C$ to avoid forming a 3-sunflower is **strictly decaying** ($2.44 \to 1.99 \to 1.23 \to 0.96$). Because the calculated metric decreases, the logarithmic penalty in the current theoretical upper bounds can be securely classified as a consequence of the proof methods—such as the probabilistic Sieve—and not as an organic feature of $n$-uniform topologies."
 
 ## Acknowledgments & Citations
-> T. F. Bloom, Erdős Problem #30, https://www.erdosproblems.com/30, accessed 2026-02-08
+> T. F. Bloom, Erdős Problem #20, https://www.erdosproblems.com/20, accessed 2026-02-08
 
 ---
 *Created by Rynaldo Stoltz ($k=3$ Regime Analysis).*
