@@ -79,18 +79,16 @@ Because the calculated $C$ metric decreases as $n$ scales, the logarithmic penal
 
 By building the absolute empirical bounds for higher dimensions, this study confirms exactly what Erdős suspected: the base rate for $f(n,3)$ is a simple constant. Our experimental data rigorously establishes that the limiting mathematical behaviors for $k=3$ strongly favor an upper bound of $f(n,3) < C^n$, for a constant $C$ likely lying between $2.5$ and $3.0$. 
 
-To definitively mathematically close the gap and definitively resolve the $1,000 prize question, future analytical theories must abandon strictly spread-dependent logarithmic union bounds, and instead leverage topological stability frameworks that match the empirical subset distribution topologies detailed by this high-performance search engine framework.
+To close the gap toward the $C^n$ bound and ultimately resolve the \$1,000 prize question, our data suggests that future theoretical proofs may need to develop mechanisms that bypass classical spreadness-based regularization, aligning more closely with the exact empirical subset topologies detailed by our computational framework.
 
 ---
 ## References
-- **[ErRa60]** P. Erdős, R. Rado. "Intersection theorems for systems of sets". *Journal of the London Mathematical Society* (1960).
-- **[Er81]** P. Erdős. "On the combinatorial problems which I would most like to see solved". *Combinatorica* (1981).
-- **[Ko97]** A. Kostochka. "An intersection theorem for systems of sets". *Random Structures & Algorithms* (1997).
-- **[KRT99]** A. Kostochka, V. Rödl, L. Talysheva. "On a theorem of Erdős and Rado". (1999).
-- **[FKNP19]** K. Frankston, J. Kahn, B. Narayanan, J. Park. "Thresholds versus fractional expectation-thresholds". *Annals of Mathematics* (2019).
-- **[ALWZ20]** R. Alweiss, S. Lovett, K. Wu, J. Zhang. "Improved bounds for the sunflower lemma". *Annals of Mathematics* (2020).
-- **[Ra20]** A. Rao. "Sunflowers and testing triangle-freeness". *Discrete Analysis* (2020).
-- **[BCW21]** T. Bell, C. Chueluecha, M. Warnke. "A note on the sunflower lemma". (2021).
+- **[ErRa60](https://www.erdosproblems.com/prizes/1000#cite-ErRa60-20)** P. Erdős, R. Rado. "Intersection theorems for systems of sets". *Journal of the London Mathematical Society* (1960).
+- **[Er81](https://www.erdosproblems.com/prizes/1000#cite-Er81-20)** P. Erdős. "On the combinatorial problems which I would most like to see solved". *Combinatorica* (1981).
+- **[Ko97](https://www.erdosproblems.com/prizes/1000#cite-Ko97-20)** A. Kostochka. "An intersection theorem for systems of sets". *Random Structures & Algorithms* (1997).
+- **[KRT99](https://www.erdosproblems.com/prizes/1000#cite-KRT99-20)** A. Kostochka, V. Rödl, L. Talysheva. "On a theorem of Erdős and Rado". (1999).
+- **[FKNP19](https://www.erdosproblems.com/prizes/1000#cite-FKNP19-20)** K. Frankston, J. Kahn, B. Narayanan, J. Park. "Thresholds versus fractional expectation-thresholds". *Annals of Mathematics* (2019).
+- **[ALWZ20](https://www.erdosproblems.com/prizes/1000#cite-ALWZ20-20)** R. Alweiss, S. Lovett, K. Wu, J. Zhang. "Improved bounds for the sunflower lemma". *Annals of Mathematics* (2020).
+- **[Ra20](https://www.erdosproblems.com/prizes/1000#cite-Ra20-20)** A. Rao. "Sunflowers and testing triangle-freeness". *Discrete Analysis* (2020).
+- **[BCW21](https://www.erdosproblems.com/prizes/1000#cite-BCW21-20)** T. Bell, C. Chueluecha, M. Warnke. "A note on the sunflower lemma". (2021).
 
----
-**Verification Hash**: `BITMASK_VERIFIED_SUNFLOWER_FREE_N4_M36_N5_M60`
