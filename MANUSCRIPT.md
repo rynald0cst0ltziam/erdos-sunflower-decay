@@ -2,7 +2,7 @@
 
 **Author:** Rynaldo Stoltz  
 **Date:** February 20, 2026  
-**Subject:** The Erdős-Rado Sunflower Conjecture ($1,000 Special Case)
+**Subject:** The Erdős-Rado Sunflower Conjecture ($k=3$ Regime)
 
 ---
 
