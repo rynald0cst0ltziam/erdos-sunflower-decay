@@ -64,7 +64,7 @@ Instead, when we compute the empirical constant $C = \kappa / \log_2 n$, we obse
 
 ---
 
-## 4. Discussion: Implications for the $1,000 Conjecture
+## 4. Discussion: Implications for the ($k=3$ Regime)
 
 The data in Table 1 represents a highly significant structural finding. As $n$ increases, the required normalized spreadness constant $C$ to avoid forming a 3-sunflower is **strictly decaying** ($2.44 \to 1.99 \to 1.23 \to 0.96$). 
 
