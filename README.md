@@ -12,7 +12,7 @@ By empirically observing maximal sunflower-free families for varying dimensions 
 The data robustly demonstrates that the logarithmic scaling requirement ($\log n$) established in recent upper-bound proofs (ALWZ, Rao, Stoeckl) is a methodological artifact of probabilistic union bounds, and not an intrinsic combinatorial property of $n$-uniform subset families. These results present strong computational evidence supporting Erdős's $C^n$ formulation and isolate the mathematical limit required to close the $1,000 proof.
 
 ### 📝 Read the Manuscript
-* Read the full experimental evidence and context: [`ERDOS_SUNFLOWER_MANUSCRIPT.md`](./ERDOS_SUNFLOWER_MANUSCRIPT.md) 
+Read the full experimental evidence and context: [`ERDOS_SUNFLOWER_MANUSCRIPT.md`](https://github.com/rynald0cst0ltziam/erdos-sunflower-decay/blob/main/MANUSCRIPT.md) 
 
 ---
 
