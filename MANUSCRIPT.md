@@ -92,3 +92,6 @@ To close the gap toward the $C^n$ bound and ultimately resolve the \$1,000 prize
 - **[Ra20](https://www.erdosproblems.com/prizes/1000#cite-Ra20-20)** A. Rao. "Sunflowers and testing triangle-freeness". *Discrete Analysis* (2020).
 - **[BCW21](https://www.erdosproblems.com/prizes/1000#cite-BCW21-20)** T. Bell, C. Chueluecha, M. Warnke. "A note on the sunflower lemma". (2021).
 
+---
+## Acknowledgments & Citations
+> T. F. Bloom, Erdős Problem #20, https://www.erdosproblems.com/20, accessed 2026-02-08
